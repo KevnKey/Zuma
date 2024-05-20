@@ -1,0 +1,22 @@
+tp0
+Added colored circles and shoots in the direction of the cursor on click. Deletes balls when
+they fly outside the screen.
+tp1
+Added a frog that always looks in the direction of the cursor. Implemented Voronoi noise for
+the background and added balls that move along a straight path.
+tp2
+Added collision detection. When a shot ball hits the path of balls, it either inserts or it
+destroys some balls. Balls travel along a parametrized ellipse path.
+tp3
+Added home screen with play and rules buttons. Made the balls insert in the right place when
+collide. Made ball eliminations possible as long as the same-colored balls are close to each
+other even though they are on different layers of the path. Added ball sprites to substitute
+colored circles. Added game over and win screen. Able to restart game. Added indicator for the
+next ball color that will be fired. Added blue spiral of doom. Added command keys.
+
+Citations:
+Frog - https://pixieengine.com/sprites/191221-zuma-frog-art-3
+All Zuma Balls - https://www.deviantart.com/bobik19990118/art/Zuma-s-Revenge-Balls-594965455
+Blue Spiral - https://www.transparentpng.com/details/black-hole-_228.html
+
+Voronoi Noise idea - https://youtu.be/4066MndcyCk
